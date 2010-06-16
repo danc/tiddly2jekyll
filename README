@@ -1,0 +1,2 @@
+This tool is mostly a fork from http://dev.tiddlywiki.org/browser/Trunk/tools/cooker
+adapted to generate one file per tiddler, possibly conforming to the .textile input format of jekyll
